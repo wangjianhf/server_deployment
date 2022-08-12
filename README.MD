@@ -1,7 +1,7 @@
-# 云服务器部署
-# server_deployment
-
-# 磁盘挂载
+# 云服务器部署 server_deployment
+	磁盘挂载、
+	软件安装、
+	服务启停、
 
 # 软件版本：
 	centos 8.4、
